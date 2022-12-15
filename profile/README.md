@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there fellow learner. 👋
+This is the organization of Learning Platform.
+You can find the repositories for the frontend, server and database here. As well as the GitHub Projects board.
 
 <!--
 
